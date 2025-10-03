@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+2cddb7f - Oriol, 17 seconds ago : Update test.txt to include '1' after 'test'
+ae915da - Oriol, 4 minutes ago : Add script to log last 3 git commits to a file
+8ee2e80 - Oriol, 15 minutes ago : Add test.txt with initial content
