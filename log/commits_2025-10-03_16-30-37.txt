@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+b1575ad - Oriol, 19 seconds ago : Change cron schedule time for commit logger
+caf8c3f - GitHub Actions, 3 minutes ago : Auto: Add latest commits log
+b1a56fe - Oriol, 3 minutes ago : Change cron time for Friday job execution
