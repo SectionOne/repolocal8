@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+b1a56fe - Oriol, 20 seconds ago : Change cron time for Friday job execution
+d0bde03 - GitHub Actions, 5 minutes ago : Auto: Add latest commits log
+2cddb7f - Oriol, 5 minutes ago : Update test.txt to include '1' after 'test'
